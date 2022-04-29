@@ -7,6 +7,7 @@ My name is Jia Wei, I'm a 2nd year software engineer student student based in We
 - 👯 I’m looking to collaborate with anyone.
 - 🤔 I’m looking for help with Flutter and 
 - 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a fan of classical music (particular Mozart, Beethoven and Bach's music) and my favourite aircraft is the Boeing 747!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWL16038&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JWL16038&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
