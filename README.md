@@ -1,6 +1,6 @@
 ### Hello! (你好！）
 
-My name is Jia Wei, I'm a 2nd year software engineer student student based in Wellington, New Zealand. I'm passionate about building great software applications  and who's looking to expand my knowledge in the tech industry! 
+My name is Jia Wei, I'm a 2nd year software engineer student student based in Wellington, New Zealand. I'm passionate about building great software applications  and who's looking to expand my knowledge in the tech industry! Feel free to call me Jia Wei or Jiawei :)
 
 - 🔭 I’m currently working on my clothing waste app in Flutter, basic neural network programs using Python and my Midi2Music project using C++.
 - 🌱 I’m currently learning on using the Flutter SDK, C/C++ and neural network using Python.
