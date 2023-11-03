@@ -5,7 +5,7 @@ My name is Jia Wei, I'm a 3rd year software engineer student student based in We
 - 🔭 I’m currently working on my Music Classification ML project in Python and PyTorch, and the clothing waste app using the Flutter SDK.
 - 🌱 I’m currently learning PyTorch, Data Science with R and on using the Flutter SDK.
 - 👯 I’m looking to collaborate with anyone!
-- 🤔 I’m looking for help with Flutter, Tensorflow and Keras.
+- 🤔 I’m looking for help with PyTorch and Machine Learning.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a fan of classical music (particular Mozart, Beethoven and Bach's music) and my favourite aircraft is the Boeing 747!
 
